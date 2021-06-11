@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  7 19:13:13 2019
-
-@author: guvnc
-"""
 import operator
 
 class Stack:
